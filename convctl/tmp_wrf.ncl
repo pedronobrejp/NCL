@@ -1,6 +1,9 @@
 ;##################################################################################################;
 ;################################ Dezembro/2019 - Eder P. Vendrasco ###############################;
 ;##################################################################################################;
+;################################ Adaptado por João Nobre em 2021   ###############################;
+;Foram corrigidos alguns erros obtidos
+;Coverte arquivo .nc do WRF para .ctl
 
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
