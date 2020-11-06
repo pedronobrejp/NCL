@@ -8,6 +8,7 @@
 ; WRF: longitude-z cross section.
 ;----------------------------------------------------------------------
 ; These files are loaded by default in NCL V6.2.0 and newer
+; Adaptado por Joao Nobre (CPTEC/INPE)
  
  load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"   
  load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"   
